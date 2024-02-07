@@ -153,7 +153,8 @@ main {
     
     
     header button{
-        width: 10vw;
+        width: 20vw;
+        font-size: 12px;
     }
     
     main {
